@@ -1,0 +1,31 @@
+[
+	{
+		"name": "Nigeria",
+		"leaderName": "Bola Tinubu",
+		"adjective": ["nigerian"],
+		"startBias": ["Avoid [Tundra]"],
+        "preferredVictoryType": "Cultural",
+
+        "startIntroPart1":"",
+        "startIntroPart2":"",
+
+        "declaringWar": "i will kill all of your soldiers !",
+		"attacked": "Oh well time to get some free loot ;)",
+		"defeated": "The demon will hunt you for for you'er life !",
+		"introduction": "Are you real or a ghost ?",
+
+        "neutralHello": "Greetings.",
+		"hateHello": "Now what do you want again ?!",
+
+        "tradeRequest": "It appears that you do have a reason for existing to make this deal with me.",
+
+        "outerColor": [40,132,0],
+        "innerColor": [255,255,255],
+        "favoredReligion": "Islam",
+
+        "uniqueName": "African spirit",
+        "uniques": ["[+10]% [Food] [in all cities]","[+10]% [Culture] [in all cities]","[-50]% Unhappiness from [Population] [in all cities]","[{Military} {Land}] units gain the [Amphibious] promotion","[+2] [Food] from every [rivers]"],
+        "cities": ["Lagos","Kano","Ibadan","Ibadan","Abuja","Kaduna","Enugu","Zaria","Warri","Ikorodu","Aba","Maiduguri","Ife","Bauchi","Akure","Ogbomosho","Abeokuta","Uyo","Oyo","Sokoto","Owerri","Yola","Calabar","Umuahia","Ondo","Minna","Lafia","xyryc","fgvgvv","cfcfcf"],
+        "spyNames": ["Rim-Sinra ", "Emerdis", "lil boi", "Peshgaldaesh", " lil zigurumaš", "Sem shad", "jump em", "Ishtar", "Bilit dTath", "Aru"]
+	}
+]
